@@ -1,0 +1,39 @@
+html, body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+form {
+  div {
+    padding: 20px;
+
+    input, label {
+      width: 100%;
+      display: block;
+      text-transform: capitalize;
+      height: 22px;
+    }
+
+    label {
+      font-size: 20px;
+    }
+  }
+  button {
+    background-color: blue;
+    text-transform: uppercase;
+    font-size: 11px;
+    color: white;
+    font-weight: 500;
+    line-height: 22px;
+  }
+}
+
+
+ul {
+  color: #D8000C;
+  background-color: #FFD2D2;
+  margin:10px 22px;
+  font-size: 20px;
+}

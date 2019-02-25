@@ -28,3 +28,15 @@ export const CREATE_BOOK = gql `
     }
   }
 `
+
+export const GET_BOOKS = gql `
+{
+  allBooks {
+    id
+    title
+    author
+    review
+    reviewer
+  }
+}
+`

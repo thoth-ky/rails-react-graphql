@@ -1,24 +1,7 @@
-# README
+This is a repository I have used during the writing of this blog.
+https://medium.com/@jmutuku95/simple-web-app-with-rails-webpacker-react-graphql-and-activestorage-pt-1-9b17ddd59102
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+It's an attempt to build an application with the following technologies:
+* Ruby on Rails
+* React
+* GraphQl
